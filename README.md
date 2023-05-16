@@ -8,4 +8,4 @@ Using Docker, the services were containerized, allowing for easy deployment, man
 The Raspberry Pi 400 provided a compact and efficient hardware platform, while Ubuntu served as the Linux-based operating system. The project successfully established a self-hosted home lab environment where I had more control and freedom over services that I use on a daily basis. 
 
 This is the dashboard homepage (which is also a self-hosted service called FLAME running in a docker container):
-![FLAME Dashboard](Screenshot 2023-05-10 092005.jpg)
+![FLAME Dashboard](https://github.com/VenkatKandhipati/Home-Lab-Server/blob/2293fc6896eec89ad39e6f25a6275a1286b19fad/Screenshot%202023-05-10%20092005.jpg)
