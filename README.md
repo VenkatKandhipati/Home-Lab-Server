@@ -15,4 +15,4 @@ Recently I have upgraded from a Raspberry Pi to an old used Dell Optiplex server
 Now I run Proxmox, which acts as a hypervisor, running 2 main VMs. One as a NAS (network attached storage) where I can store all my media and files. Another as my main Ubuntu Server hosting all of the same services on my Raspberry Pi.
 
 Here is how my new dashboard looks (which is also a self-hosted service called HOMARR running in its own docker container):
-![HOMARR Dashboard](https://github.com/VenkatKandhipati/Home-Lab-Server/blob/2293fc6896eec89ad39e6f25a6275a1286b19fad/Screenshot%202023-05-10%20092005.jpg)
+![HOMARR Dashboard]([https://github.com/VenkatKandhipati/Home-Lab-Server/blob/main/Screenshot%202024-02-01%20173707.jpeg)
